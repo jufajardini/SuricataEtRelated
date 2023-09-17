@@ -1,6 +1,6 @@
 # Suricata Et Related
 
-A collection of Suricata and Suricata-related useful resources.
+A collection of Suricata and Suricata-related useful resources. Go to THE LIST of resources: https://github.com/jufajardini/SuricataEtRelated/blob/main/resources.md.
 
 ## Motivation
 
