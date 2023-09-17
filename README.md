@@ -9,3 +9,8 @@ do Bem (Hackers for Good) organized by RNP the Brazilian Network for Education a
 Well, it makes it much easier to share and update, I think!
 
 That's it, I hope you find this useful. If you see anything that could be improved, please, share!! :)
+
+## Links
+
+- Hackathon Hackers do Bem (in Portuguese) - https://www.rnp.br/noticias/programa-hackers-do-bem-lanca-primeiro-desafio-hackathon-no-sbseg-2023-saiba-como
+- RNP - https://www.rnp.br/en/about/who-we-are
