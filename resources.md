@@ -7,7 +7,7 @@ This will be very loosely organized by now.
 - Webpage: https://suricata.io
 - Forum - THE PLACE to ask questions and find answers: https://forum.suricata.io
 - User and Developer Guide: https://docs.suricata.io
-- Discord Server: discord.gg/t3rV2x7MrG
+- Discord Server: https://discord.com/invite/t3rV2x7MrG
 - Youtube Channel - webinars, lectures, SuriCon talks: https://youtube.com/@OISFSuricata
 - Repository: https://github.com/OISF/suricata
 - Output tests repository - great for searching rules, pcaps, and simple use-cases: https://https://github.com/OISF/suricata-verify
